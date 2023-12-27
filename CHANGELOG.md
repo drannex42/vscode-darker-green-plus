@@ -1,6 +1,6 @@
 # Change Log
 
-## [1.2]((https://github.com/kazelone/vscode-dark-green-plus/releases/tag/v1.1.1) (2023-12-27)
+## [1.2.0] (2023-12-27)
 
 * Darker Green+ Added a darker color pallete to a very few items (via @drannex42)
 * Should have been called Dark Green++, but that didn't quite make enough sense. 
