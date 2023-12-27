@@ -2,7 +2,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"semanticHighlighting": true,
 
-	"name": "Dark Green+",
+	"name": "Darker Green+",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#021302",
