@@ -1,21 +1,21 @@
 {
-    "name": "vscode-dark-green-plus",
-    "displayName": "Dark Green+",
-    "description": "A dark green theme that's easy on the eyes.",
-    "version": "1.1.2",
-    "publisher": "kazelone",
+    "name": "vscode-darker-green-plus",
+    "displayName": "Darker Green+",
+    "description": "A darker green theme that's easy on the eyes (based on Dark Green+ by kazelone)",
+    "version": "1.2.0",
+    "publisher": "drannex42",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.40.0"
     },
-    "homepage": "https://github.com/kazelone/vscode-dark-green-plus",
+    "homepage": "https://github.com/drannex42/vscode-darker-green-plus",
     "author": {
-        "name": "Kaz",
-        "url": "https://github.com/kazelone"
+        "name": "Macleod Sawyer",
+        "url": "https://github.com/drannex42"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/kazelone/vscode-dark-green-plus"
+        "url": "https://github.com/drannex42/vscode-darker-green-plus"
     },
     "categories": [
         "Themes"
@@ -32,7 +32,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Dark Green+",
+                "label": "Darker Green+",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-green-plus-color-theme.json"
             }

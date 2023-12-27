@@ -1,21 +1,19 @@
-# Dark Green+
+# Darker Green+
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/kazelone.vscode-dark-green-plus.svg)](https://marketplace.visualstudio.com/items?itemName=kazelone.vscode-dark-green-plus)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/kazelone.vscode-dark-green-plus.svg)](https://marketplace.visualstudio.com/items?itemName=kazelone.vscode-dark-green-plus)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/kazelone.vscode-dark-green-plus.svg)](https://marketplace.visualstudio.com/items?itemName=kazelone.vscode-dark-green-plus)
+A darker green theme that's easy on the eyes.
 
-A dark green theme that's easy on the eyes.<br/>
-For people who like green!
+For people who like darker green!
+
+[Based on Dark Green+.](https://github.com/Samuel-B-D/vscode-dark-green-plus)
 
 ## Screenshot
-Empty editor
-![Empty editor](https://i.imgur.com/dKMMJl6.png)
+![Empty Editor](./screenshots/open_editor.png)
 
 Opened folder + json
-![Opened folder + json](https://i.imgur.com/NMOf6Pn.png)
+![Opened folder + json](./screenshots/opened_folder_json.png)
 
 Typescript
-![Typescript](https://i.imgur.com/SLXzZSd.png)
+![Typescript](./screenshots/typescript.png)
 
 Rust
-![Rust](https://i.imgur.com/1emucnl.png)
+![Rust](./screenshots/rust.png)
