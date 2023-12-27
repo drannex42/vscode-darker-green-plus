@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.2.2] (2023-12-27)
+
+* Updated `readme.md`
+* Added to the VS Code Marketplace
+
 ## [1.2.0] (2023-12-27)
 
 * Darker Green+ Added a darker color pallete to a very few items (via @drannex42)
