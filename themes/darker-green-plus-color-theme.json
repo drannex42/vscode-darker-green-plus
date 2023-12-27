@@ -5,7 +5,7 @@
 	"name": "Darker Green+",
 	"type": "dark",
 	"colors": {
-		// Indentation means changed from Dark Green+
+		"_____Indentation means changed from Dark Green",
 			"activityBar.background": "#021302",
 		"activityBar.border": "#003300",
 		"activityBar.foreground": "#1dce1d",       
