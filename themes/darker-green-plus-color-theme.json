@@ -5,7 +5,7 @@
 	"name": "Darker Green+",
 	"type": "dark",
 	"colors": {
-		"_____Indentation means changed from Dark Green",
+		"Indentation_means_changed_from_Dark_Green": "changes",
 			"activityBar.background": "#021302",
 		"activityBar.border": "#003300",
 		"activityBar.foreground": "#1dce1d",       
@@ -122,7 +122,7 @@
 		"textPreformat.foreground": "#87d77d",
 			"statusBarItem.remoteBackground": "#10270a",
 			"statusBarItem.remoteForeground": "#00FF00",
-		"tree.indentGuidesStroke": "#009900",
+		"tree.indentGuidesStroke": "#009900"
 	},
 	"tokenColors": [
 		{
@@ -520,7 +520,7 @@
 			"name": "Rust Function declarations",
 			"scope": [
 				"entity.name.function.rust",
-				"support.function.rust",
+				"support.function.rust"
 			],
 			"settings": {
 				"foreground": "#14a820"
@@ -576,7 +576,7 @@
 		{
 			"name": "Rust type keyword",
 			"scope": [
-				"storage.type.rust",
+				"storage.type.rust"
 			],
 			"settings": {
 				"foreground": "#078d5a"
@@ -741,7 +741,7 @@
         "enum:rust": "#a1bb11",
         
         "function:rust": "#84D775",
-		"variable:rust": "#30A8E8",
+		"variable:rust": "#30A8E8"
 		
 		// "property:rust": "#61AFEF",
         // "member:rust": "#61AFEF",

@@ -2,7 +2,7 @@
     "name": "vscode-darker-green-plus",
     "displayName": "Darker Green+",
     "description": "A darker green theme that's easy on the eyes (based on Dark Green+)",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "publisher": "drannex42",
     "icon": "icon.png",
     "engines": {
@@ -34,7 +34,7 @@
             {
                 "label": "Darker Green+",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark-green-plus-color-theme.json"
+                "path": "./themes/darker-green-plus-color-theme.json"
             }
         ]
     }
